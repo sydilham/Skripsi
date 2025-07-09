@@ -1,19 +1,17 @@
-<<<<<<< HEAD
-# Sistem Informasi Laporan Pajak Penghasilan
+# Skripsi
+Rancang Bangun Sistem Penghitungan Dan Pelaporan Pajak Berbasis Website Di SDN CARINGIN I
 
 ## 📌 Deskripsi
 
-Sistem Informasi Laporan Pajak Penghasilan adalah aplikasi berbasis web yang digunakan untuk mengelola data pajak karyawan klien di kantor konsultan pajak. Aplikasi ini membantu dalam pembuatan laporan pajak yang dapat dicetak sesuai kebutuhan.
+Sistem Penghitungan dan pelaporan dokumen pajak mempermudah dalam proses menghitung dan mengupload bukti bukti pajak di dunia pendidikan.
 
 ## 🚀 Fitur Utama
 
-1. **Dashboard**: Menampilkan ringkasan jumlah perusahaan, karyawan, dan total pajak yang dipotong.
-2. **Manajemen Perusahaan Klien**: Menambah, mengedit, dan menghapus data perusahaan klien.
-3. **Manajemen Karyawan Klien**: Mengelola data karyawan dari perusahaan klien.
-4. **Jenis Pajak**: Mengelola daftar jenis pajak yang berlaku seperti PPh 21 dan PPh 23.
-5. **Laporan Pajak**: Melihat dan mencetak laporan pajak dengan detail penghasilan dan potongan pajak.
-6. **Autentikasi**: Sistem login menggunakan Laravel Breeze.
-7. **Cetak Laporan**: Dukungan ekspor laporan dalam format PDF menggunakan DomPDF.
+1. **Dashboard**
+2. **Jenis Pajak**
+3. **Laporan Pajak**
+4. **Autentikasi**
+5. **Cetak Laporan** 
 
 ## 🛠️ Teknologi yang Digunakan
 
@@ -28,7 +26,7 @@ Sistem Informasi Laporan Pajak Penghasilan adalah aplikasi berbasis web yang dig
 ### 1. Clone Repository
 
 ```sh
-git clone https://github.com/andrnnnn/app-laporan-pajak-laravel.git
+git clone https://github.com/sydilham/app-laporan-pajak-laravel.git
 cd repository
 ```
 
@@ -86,6 +84,5 @@ Gunakan perintah berikut untuk mendekripsi:
 php artisan env:decrypt
 ```
 =======
-# Skripsi
-Rancang Bangun Sistem Penghitungan Dan Pelaporan Pajak Berbasis Website Di SDN CARINGIN I
->>>>>>> b918662294e52a2a9a8a95186892bf6bbc54a0df
+
+
