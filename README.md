@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistem Informasi Laporan Pajak Penghasilan
 
 ## 📌 Deskripsi
@@ -84,3 +85,7 @@ Gunakan perintah berikut untuk mendekripsi:
 ```sh
 php artisan env:decrypt
 ```
+=======
+# Skripsi
+Rancang Bangun Sistem Penghitungan Dan Pelaporan Pajak Berbasis Website Di SDN CARINGIN I
+>>>>>>> b918662294e52a2a9a8a95186892bf6bbc54a0df
